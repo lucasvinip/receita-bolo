@@ -9,13 +9,12 @@ header{
 .logo{
     height: 80px;
 }
-.bolo{
-    height: 380px;
+
 }
 
 main{ 
     display: flex;
     flex-direction: column;
     background-color: tomato;
-    padding-top: 48;
-    al
+    padding-top: 48px;
+    
