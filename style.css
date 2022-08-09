@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+header{
+    height: 80px;
+    background-color: black;
+}
+.logo{
+    height: 80px;
+}
+.bolo{
+    height: 380px;
+}
+
+main{ 
+    display: flex;
+    flex-direction: column;
+    background-color: tomato;
+    padding-top: 48;
+    al
